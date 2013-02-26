@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sdfasdfasdf
 df
 df
@@ -22,3 +23,5 @@ as
 df
 
 
+=======
+>>>>>>> parent of dffdb47... dd
